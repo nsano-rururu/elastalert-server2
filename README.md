@@ -12,6 +12,7 @@ johnsusek/elastalert-server Fork
 **TODO**
 
 - [x] node 22 to 24
+- [ ] Verified for OpenSearch 1.x/2.x; supports OpenSearch 3.x.
 - [ ] Add TestCode
 - [ ] javascript to typescript
 
