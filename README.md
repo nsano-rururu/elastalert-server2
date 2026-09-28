@@ -4,16 +4,13 @@ johnsusek/elastalert-server Fork
 
 ---
 > A server that runs [ElastAlert 2](https://github.com/jertel/elastalert2) and exposes REST API's for manipulating rules and alerts. It works great in combination with our [ElastAlert Kibana plugin](https://github.com/karql/elastalert-kibana-plugin).
-
+<!--
 ![Docker Pulls](https://img.shields.io/docker/pulls/praecoapp/elastalert-server.svg)
-![GitHub stars](https://img.shields.io/github/stars/johnsusek/elastalert-server.svg?style=social&label=Stars)
+-->
+![GitHub stars](https://img.shields.io/github/stars/nsano-rururu/elastalert-server2.svg?style=social&label=Stars)
 
 **TODO**
 
-- [x] node 16 to 18
-- [x] node 18 to 20
-- [x] node 20 to 22
-- [x] express 4 to 5
 - [x] node 22 to 24
 - [ ] Add TestCode
 - [ ] javascript to typescript
@@ -285,10 +282,7 @@ This server exposes the following REST API's:
 Want to contribute to this project? Great! Please read our [contributing guidelines](CONTRIBUTING.md) before submitting an issue or a pull request.
 
 **We only accept pull requests on our [GitHub repository](https://github.com/johnsusek/elastalert-server)!**
- 
-## Contact
-We'd love to help you if you have any questions. You can contact us by using the [contact info on our website](https://github.com/johnsusek/praeco).
- 
+  
 ## License
 This project is [BSD Licensed](../LICENSE.md) with some modifications. Note that this only accounts for the ElastAlert Server, not ElastAlert 2 itself ([ElastAlert 2 License](https://github.com/jertel/elastalert2/blob/master/LICENSE)).
 
