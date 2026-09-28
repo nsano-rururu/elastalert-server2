@@ -1,4 +1,4 @@
-# ElastAlert Server
+# ElastAlert Server2
 
 johnsusek/elastalert-server Fork
 
