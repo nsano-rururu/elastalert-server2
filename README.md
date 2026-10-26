@@ -12,6 +12,7 @@ johnsusek/elastalert-server Fork
 **TODO**
 
 - [x] node 22 to 24
+- [x] node 24 to 26
 - [ ] Verified for OpenSearch 1.x/2.x; supports OpenSearch 3.x.
 - [ ] Add TestCode
 - [ ] javascript to typescript
@@ -46,7 +47,7 @@ make build
 ```
 which is equivalent of
 ```
-docker pull python:3.14-alpine3.24 && docker pull node:24.22.1-alpine3.24
+docker pull python:3.14-alpine3.24 && docker pull node:26.12.1-alpine3.24
 docker build -t elastalert-server .
 ```
 
